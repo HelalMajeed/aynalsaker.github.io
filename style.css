@@ -12,7 +12,7 @@ body {
 .first {
     width: 40%;
     height: 45%;
-    background-image: url("images/As.1.pdf.png");
+    background-image: url("As.1.pdf.png");
     background-size: cover;
     background-position: center;
 }
@@ -42,7 +42,7 @@ body {
     background-color: black;
     width: 40%;
     height: 45%;
-    background-image: url("images/As.1.pdf\ \(1\).png");
+    background-image: url("As.1.pdf\ \(1\).png");
     background-size: cover;
     background-position: center;
 }
